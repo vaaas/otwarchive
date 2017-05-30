@@ -151,7 +151,7 @@ ul#skiplinks, .landmark, .landmark a, .index .heading.landmark {
 
 .heading .actions, .heading .action, .heading span.actions {
   height: auto;
-  font: 100 75%/1.286 'Lucida Grande', 'Lucida Sans Unicode', 'Arial Unicode MS', 'GNU Unifont',sans-serif;
+  font: 100 75%/1.286 'Lucida Grande', 'Lucida Sans Unicode', 'Dejavu Sans', Verdana, Helvetica, sans-serif;
   padding: 0.15em 0.375em;
 }
 
